@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "647174010943",
+    "firebase_url": "https://zoombox-70d9a.firebaseio.com",
+    "project_id": "zoombox-70d9a",
+    "storage_bucket": "zoombox-70d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647174010943:android:b64436d7c4a2195f",
+        "android_client_info": {
+          "package_name": "com.tdd.zoombox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647174010943-ntmua7ls9pugnds0tfmcklccfmemi0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJrsvdc8Dbl6eFHflYEIJBklzYahL3fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647174010943:android:374b4af11ea6d701",
+        "android_client_info": {
+          "package_name": "com.hieuapp.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647174010943-ntmua7ls9pugnds0tfmcklccfmemi0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJrsvdc8Dbl6eFHflYEIJBklzYahL3fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647174010943:android:b5ec529e023d23c8",
+        "android_client_info": {
+          "package_name": "com.tdd.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647174010943-ntmua7ls9pugnds0tfmcklccfmemi0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJrsvdc8Dbl6eFHflYEIJBklzYahL3fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
